@@ -19,4 +19,11 @@ The techniques used in our report included:
 
 My Scope of Work: Decision Tree
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![report](https://github.com/Jaynepei/PythonProject/blob/master/reportpg1.JPG?raw=true)
+![report](https://github.com/Jaynepei/PythonProject/blob/master/reportpg2.JPG?raw=true)
+![report](https://github.com/Jaynepei/PythonProject/blob/master/reportpg3.JPG?raw=true)
+![report](https://github.com/Jaynepei/PythonProject/blob/master/reportpg4.JPG?raw=true)
+![report](https://github.com/Jaynepei/PythonProject/blob/master/reportpg5.JPG?raw=true)
+![report](https://github.com/Jaynepei/PythonProject/blob/master/reportpg6.JPG?raw=true)
+
+
