@@ -19,4 +19,4 @@ The techniques used in our report included:
 
 My Scope of Work: Decision Tree
 
-![Screen Capture of Report](demo/CA_Project_2_Snapshots.jpg)
+![Screen Capture of Report](reportpg1.jpg)
