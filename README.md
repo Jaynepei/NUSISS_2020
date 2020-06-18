@@ -19,4 +19,4 @@ The techniques used in our report included:
 
 My Scope of Work: Decision Tree
 
-![Screen Capture of Report](reportpg1.jpg)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
